@@ -1,5 +1,5 @@
 # Punch_Every_day
-One hour Oral english study and one paper reading every day
+One hour oral english study and one paper reading every day
 
 ## Added 2019/12/23-2019/12/29
 -  [ ] One paper and one hour english
