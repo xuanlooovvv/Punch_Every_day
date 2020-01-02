@@ -16,7 +16,7 @@ One hour oral english study and one paper reading every day
 
 ## Added 2019/12/30-2020/01/03
 -  [X] One paper and one hour english
-- `English` [Common words of Introduction](https://zhuanlan.zhihu.com/p/79654066)
+- `English` [Common words of Introduction](https://zhuanlan.zhihu.com/p/79654066), [Occupation](https://www.youtube.com/watch?v=Gpyze8F9EC0&list=PLCpgggEg1JgpVsODmsXkDQfsEVCtNVtex&index=5)
 
 
 
