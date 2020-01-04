@@ -14,11 +14,15 @@ One hour oral english study and one paper reading every day
 -  [ ] One paper and one hour english
 ---
 
-## Added 2019/12/30-2020/01/03
+## Added 2019/12/30-2020/01/05
 -  [X] One paper and one hour english
 - `Pre-train GNNS` [Pre-training Graph Neural Nerworks](https://arxiv.org/pdf/1905.12265.pdf) `page1-6`
 - `English` [Common words of Introduction](https://zhuanlan.zhihu.com/p/79654066), [Occupation](https://www.youtube.com/watch?v=Gpyze8F9EC0&list=PLCpgggEg1JgpVsODmsXkDQfsEVCtNVtex&index=5)
 -  [X] One paper and one hour english
 - `Pre-train GNNS` [Pre-training Graph Neural Nerworks](https://arxiv.org/pdf/1905.12265.pdf) `page6-9`
+-  [X] One paper and one hour english
+- `Pre-train GNNS` [Unsupervised Pre-training of Graphj Convolutional Networks](https://rlgm.github.io/papers/73.pdf) 
+
+
 
 
