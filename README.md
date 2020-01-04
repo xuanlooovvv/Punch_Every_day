@@ -17,7 +17,7 @@ One hour oral english study and one paper reading every day
 - `Pre-train GNNS` [Pre-training Graph Neural Nerworks](https://arxiv.org/pdf/1905.12265.pdf) `page6-9`
 -  [X] One paper and one hour english
 - `Pre-train GNNS` [Unsupervised Pre-training of Graphj Convolutional Networks](https://rlgm.github.io/papers/73.pdf) 
--  `PullNet` [PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text](https://arxiv.org/pdf/1904.09537.pdf)
+-  `PullNet` [PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text](https://arxiv.org/pdf/1904.09537.pdf) `page1-5`
 
 
 
