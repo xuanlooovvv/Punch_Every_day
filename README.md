@@ -20,6 +20,7 @@ One hour oral english study and one paper reading every day
 -  `PullNet` [PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text](https://arxiv.org/pdf/1904.09537.pdf) `page1-5`
 -  [X] One paper and one hour english
 -  `ConSeqNet` [Improving Natural Language Inference Using External Knowledge in the Science Questions Domain](https://arxiv.org/pdf/1809.05724.pdf) 
+- `English` [Taking About Yourself](https://www.youtube.com/watch?v=BuHiA1Liyds&pbjreload=10)
 
 
 
